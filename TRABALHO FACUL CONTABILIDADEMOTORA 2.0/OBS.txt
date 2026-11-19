@@ -1,0 +1,5 @@
+SISTEMA PWA: https://contabilidademotora2.netlify.app
+
+LINK GITHUB: https://github.com/caiohenriquerfi/Trabalho-de-Extens-o-T-picos-de-Big-data-em-python
+
+LINK PLANILHA: https://docs.google.com/spreadsheets/d/1QCm46C3s8jewcUm1QS2eARJCpNlyG2chhWhQOS3sREw/edit?gid=0#gid=0
